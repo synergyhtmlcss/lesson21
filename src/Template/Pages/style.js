@@ -23,4 +23,10 @@ padding-bottom: 250px;
       width: auto;
     }
   }
+  @media screen and (min-width: 1680px) {
+    .container {
+      margin: 0 auto;
+      width: auto;
+    }
+  }
 `
