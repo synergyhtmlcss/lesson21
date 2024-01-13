@@ -5,7 +5,6 @@ export const GenreCard = ({data}) => {
   // color - цвет карточки
   return (
     <>
-    {title}
     </>
   )
 }

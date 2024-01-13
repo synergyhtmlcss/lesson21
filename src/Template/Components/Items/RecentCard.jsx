@@ -4,7 +4,6 @@ export const RecentCard = ({data}) => {
   // title - заголовок карточки
   return (
     <>
-    {title}
     </>
   )
 }

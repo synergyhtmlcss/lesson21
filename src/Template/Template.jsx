@@ -9,17 +9,17 @@ export const Template = () => {
   return (
     <>
       <Bar/>
-        <Routes>
-          <Route
-            path="/"
-            element={<MainPage/>}
-          />
-          <Route
-            path="/search"
-            element={<SearchPage/>}
-          />
-        </Routes>
-        <Tools/>
+      <Routes>
+        <Route
+          path="/"
+          element={<MainPage/>}
+        />
+        <Route
+          path="/search"
+          element={<SearchPage/>}
+        />
+      </Routes>
+      <Tools/>
     </>
   )
 }

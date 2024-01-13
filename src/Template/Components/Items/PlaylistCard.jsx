@@ -5,7 +5,6 @@ export const PlaylistCard = ({data}) => {
   // color - цвет карточки
   return (
     <>
-    {title}
     </>
   )
 }

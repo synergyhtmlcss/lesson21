@@ -5,7 +5,6 @@ export const AlbumCard = ({data}) => {
   // subtitle - подзаголовок карточки
   return (
     <>
-    {title}
     </>
   )
 }

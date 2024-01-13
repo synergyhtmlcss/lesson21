@@ -1,7 +1,7 @@
 import styled from 'styled-components'
 
 export const PageWrapper = styled.div`
-padding-bottom: 250px;
+  padding-bottom: 250px;
   color: #fff;
   min-height: 100vh;
   width: 100%;
